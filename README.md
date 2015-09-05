@@ -1,5 +1,5 @@
 # CSS-fonts
-| 中文名称 Mac OS|英文名|Unicode| Unicode 2 |
+| 中文名称 |英文名|Unicode| Unicode 2 |
 | ------|--------|-------| -------|
 | 华文细黑 | STHeiti Light [STXihei]|\534E\6587\7EC6\9ED1|&amp;#x534E;&amp;#x6587;&amp;#x7EC6;&amp;#x9ED1;|
 |华文黑体|STHeiti|\534E\6587\9ED1\4F53|&amp;#x534E;&amp;#x6587;&amp;#x9ED1;&amp;#x4F53;|
