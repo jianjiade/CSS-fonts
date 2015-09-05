@@ -38,3 +38,8 @@
 |华文隶书|STLiti|\534E\6587\96B6\4E66|
 |华文行楷|STXingkai|\534E\6587\884C\6977|
 |华文新魏|STXinwei|\534E\6587\65B0\9B4F|
+
+####原文链接
+[原文链接](http://hotoo.googlecode.com/svn/trunk/labs/css/css-fonts.html)
+
+如果有补充的，或者发现错误的，可以提issue大家一起来完善。
